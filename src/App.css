@@ -6,3 +6,25 @@
     background-color: yellow;
     height: 100vh;
 }
+
+.app__body {
+    background: url("https://i.pinimg.com/originals/50/69/f6/5069f674339acf326dec83fa61d16480.jpg")
+                no-repeat center;
+    background-size: contain;
+    height: 400px;
+    width: 250px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 60px;
+    padding-bottom: 65px;
+}
+
+.app__logo {
+    object-fit: contain;
+    height: 200px;
+}
+
+.app__bodyBackground {
+    background-color: white;
+    height: 400px;
+}
